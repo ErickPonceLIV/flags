@@ -1,0 +1,199 @@
+
+.container{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: cadetblue;
+}
+
+.position{
+ width: 80%;
+ height: 80%;
+ margin: 20px;
+ display: flex;
+ align-items: center;
+ background: linear-gradient(gray,white)
+}
+
+
+.france{
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+
+.blue{
+    width: 33.3%; 
+    height: 250px;
+    display: inline-block;
+    background-color: #002395;
+}
+
+.white{
+    width: 33.3%; 
+    height: 250px;
+    display: inline-block;
+    background-color: #FFFFFF;
+  
+}
+.red{
+    width: 33.3%; 
+    height: 250px;
+    display: inline-block;
+    background-color:#ED2939
+   
+}
+
+.france_flex{
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+    display: flex;
+}
+
+.blue_flex {
+    width: 33.3%; 
+    height: 250px;
+    background-color:#002395;
+  
+   
+
+}
+.white_flex{
+    width: 33.3%; 
+    height: 250px;
+    background-color: #FFFFFF ;
+
+}
+.red_flex{
+    width: 33.3%; 
+    height: 250px;
+    background-color:#ED2939;
+
+}
+.germany{
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+.black{
+   height: 33.3%;
+   background-color: black
+
+}
+.red_germany{
+   height: 33.3%;
+    background-color: #DD0000;
+}
+.yellow{
+    height:33.3%;
+    background-color: #FFCC00;
+}
+
+.germany_flex{
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+    display:flex;
+    flex-direction: column
+}
+
+.black_flex
+{   height: 33.3%;
+    background-color: black   
+}
+
+.red_germany_flex{
+    height: 33.3%;
+    background-color: #DD0000;
+}
+
+.yellow_flex{
+    height:33.3%;
+    background-color: #FFCC00;   
+}
+
+
+.england {
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+    background-color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.red_england_center{
+    width: 70px;
+    height: 250px;
+    background-color: #CE1124;
+}
+
+.red_england_horizontal{
+    width: 400px;
+    height: 50px;
+    background-color:#CE1124 ;
+    
+}
+
+.red_england_horizontal2{
+    width: 400px;
+    height: 50px;
+    background-color:#CE1124
+}
+
+.japan{
+   border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    margin: 15px;
+    background-color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+  .sun{
+    width: 100px;
+    height: 100px;
+    background-color: #CE1124;
+    border-radius: 50%;
+}
+
+.mexico{
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+    display: flex;
+
+}
+
+.green{
+    width: 33.3%; 
+    height: 250px;
+    background-color:#006341;
+}
+    
+
+.white_mexico{
+    width: 33.3%; 
+    height: 250px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+img{
+    width: 71%;
+    height: 40%;
+}
+
+.red_mexico{
+    width: 33.3%; 
+    height: 250px;
+    background-color: #C8102E
+}
